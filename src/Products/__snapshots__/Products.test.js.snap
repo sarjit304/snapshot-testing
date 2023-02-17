@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders when there are multiple item 1`] = `
+<ol>
+  <li>
+    Earth
+  </li>
+  <li>
+    Sun
+  </li>
+  <li>
+    Moon
+  </li>
+  <li>
+    Saturn
+  </li>
+</ol>
+`;
+
+exports[`renders when there are no items 1`] = `
+<div>
+  No items found.
+</div>
+`;
+
+exports[`renders when there is one item 1`] = `
+<ol>
+  <li>
+    Earth
+  </li>
+</ol>
+`;
